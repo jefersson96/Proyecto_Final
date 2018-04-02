@@ -1,0 +1,3 @@
+﻿  matriz.cpp
+c:\users\jefersson\source\repos\matrices\matrices\matriz.cpp(165): warning C4101: 'numeros': variable local sin referencia
+  Matrices.vcxproj -> C:\Users\jefersson\source\repos\Matrices\Debug\Matrices.exe
